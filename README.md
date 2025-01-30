@@ -13,6 +13,7 @@ Create a product listing application using Flutter and the BLoC pattern. This pr
 ### Core Features
 1. **Product Listing**
    - Display a grid/list of products with basic information
+   - You can find the sample data in this repo in [data.json](/data.json)
    - Each product card should show:
      - Product image
      - Name
