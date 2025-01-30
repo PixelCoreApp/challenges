@@ -29,9 +29,8 @@ Create a product listing application using Flutter and the BLoC pattern. This pr
 
 3. **Search & Filtering**
    - Implement a search bar to filter products by name
-   - Add category filters
-   - Add price range filters
-   - Implement sort functionality (price, rating)
+   - Add price range filters (optional)
+   - Implement sort functionality by price or rating (optional) 
 
 4. **UI/UX**
    - Create a responsive layout that works on both phone and tablet
